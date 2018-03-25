@@ -24,3 +24,6 @@ Server
      TriggerClientEvent('esx_handcuffs:uncuff', source)
     end)
 ```
+
+#Based on:
+#https://github.com/TomGrobbe/Realistic-Handcuffs-FiveM
