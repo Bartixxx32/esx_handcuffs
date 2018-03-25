@@ -25,5 +25,5 @@ Server
     end)
 ```
 
-#Based on:
-#https://github.com/TomGrobbe/Realistic-Handcuffs-FiveM
+# Based on:
+# https://github.com/TomGrobbe/Realistic-Handcuffs-FiveM
